@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Fizzler", "Xamarin.Fizzler\Xamarin.Fizzler.csproj", "{F3494D9E-ADF9-47B5-AF6C-E2BD23CB990F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Fizzler.HtmlAgilityPack", "Xamarin.Fizzler.HtmlAgilityPack\Xamarin.Fizzler.HtmlAgilityPack.csproj", "{DF09A145-D7F2-4A43-90B4-274FF70355B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3494D9E-ADF9-47B5-AF6C-E2BD23CB990F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3494D9E-ADF9-47B5-AF6C-E2BD23CB990F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3494D9E-ADF9-47B5-AF6C-E2BD23CB990F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3494D9E-ADF9-47B5-AF6C-E2BD23CB990F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF09A145-D7F2-4A43-90B4-274FF70355B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF09A145-D7F2-4A43-90B4-274FF70355B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF09A145-D7F2-4A43-90B4-274FF70355B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF09A145-D7F2-4A43-90B4-274FF70355B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E70850F-1FE6-4BF9-835B-462BBEBCF746}
+	EndGlobalSection
+EndGlobal

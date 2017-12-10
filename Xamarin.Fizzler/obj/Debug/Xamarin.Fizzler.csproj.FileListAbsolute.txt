@@ -1,0 +1,14 @@
+c:\users\colon\documents\visual studio 2017\Projects\Xamarin.Fizzler\Xamarin.Fizzler\obj\Debug\Xamarin.Fizzler.csprojResolveAssemblyReference.cache
+c:\users\colon\documents\visual studio 2017\Projects\Xamarin.Fizzler\Xamarin.Fizzler\obj\Debug\Xamarin.Fizzler.csproj.CoreCompileInputs.cache
+c:\users\colon\documents\visual studio 2017\Projects\Xamarin.Fizzler\Xamarin.Fizzler\bin\Debug\Xamarin.Fizzler.dll
+c:\users\colon\documents\visual studio 2017\Projects\Xamarin.Fizzler\Xamarin.Fizzler\bin\Debug\Xamarin.Fizzler.pdb
+c:\users\colon\documents\visual studio 2017\Projects\Xamarin.Fizzler\Xamarin.Fizzler\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\colon\documents\visual studio 2017\Projects\Xamarin.Fizzler\Xamarin.Fizzler\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\colon\documents\visual studio 2017\Projects\Xamarin.Fizzler\Xamarin.Fizzler\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\colon\documents\visual studio 2017\Projects\Xamarin.Fizzler\Xamarin.Fizzler\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\colon\documents\visual studio 2017\Projects\Xamarin.Fizzler\Xamarin.Fizzler\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\colon\documents\visual studio 2017\Projects\Xamarin.Fizzler\Xamarin.Fizzler\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\colon\documents\visual studio 2017\Projects\Xamarin.Fizzler\Xamarin.Fizzler\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\colon\documents\visual studio 2017\Projects\Xamarin.Fizzler\Xamarin.Fizzler\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\colon\documents\visual studio 2017\Projects\Xamarin.Fizzler\Xamarin.Fizzler\obj\Debug\Xamarin.Fizzler.dll
+c:\users\colon\documents\visual studio 2017\Projects\Xamarin.Fizzler\Xamarin.Fizzler\obj\Debug\Xamarin.Fizzler.pdb
